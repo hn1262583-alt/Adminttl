@@ -1,2 +1,2 @@
 # Adminttl
-Viết ứng dụng Ai Trợ lý của tôi
+Ứng dụng Ai Trợ lý của tôi
